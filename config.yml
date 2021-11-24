@@ -1,0 +1,6 @@
+# mode: all for testing purposes, searches /r/all, doesn't delete submissions
+# mode: mod for use in production, deletes submissions and checks only moderated communities
+mode: mod
+
+# debug: true/false - if true prints debug messages about submissions being checked
+debug: false
